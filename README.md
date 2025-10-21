@@ -1,0 +1,1 @@
+# opgave-6-knight-tour
